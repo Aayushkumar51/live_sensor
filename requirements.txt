@@ -1,0 +1,5 @@
+pymongo
+
+
+
+-e . #editable mode (it trigger the setup.py file)
